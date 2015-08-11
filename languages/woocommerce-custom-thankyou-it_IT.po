@@ -4,8 +4,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: WooCommerce Custom Thank You 1.0.0\n"
 "Report-Msgid-Bugs-To: https://github.com/SiR-DanieL/woocommerce-custom-thankyou/issues\n"
-"POT-Creation-Date: 2015-08-07 13:43:05+00:00\n"
-"PO-Revision-Date: 2015-08-07 15:43+0100\n"
+"POT-Creation-Date: 2015-08-11 06:58:42+00:00\n"
+"PO-Revision-Date: 2015-08-11 08:58+0100\n"
 "Last-Translator: Nicola Mustone <mustone.nicola@gmail.com>\n"
 "Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
 "Language: it_IT\n"
@@ -14,104 +14,120 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Poedit 1.7.4\n"
 
+#: deploy/1.0.0/templates/thankyou/customer-details.php:1
 #: templates/thankyou/customer-details.php:1
 msgid "Customer Details"
 msgstr "Dettagli Cliente"
 
+#: deploy/1.0.0/templates/thankyou/customer-details.php:6
 #: templates/thankyou/customer-details.php:6
 msgid "Note:"
 msgstr "Note:"
 
+#: deploy/1.0.0/templates/thankyou/customer-details.php:13
 #: templates/thankyou/customer-details.php:13
 msgid "Email:"
 msgstr "Email:"
 
+#: deploy/1.0.0/templates/thankyou/customer-details.php:20
 #: templates/thankyou/customer-details.php:20
 msgid "Telephone:"
 msgstr "Telefono:"
 
+#: deploy/1.0.0/templates/thankyou/customer-details.php:36
 #: templates/thankyou/customer-details.php:36
 msgid "Billing Address"
 msgstr "Indirizzo di Fatturazione"
 
+#: deploy/1.0.0/templates/thankyou/customer-details.php:39
+#: deploy/1.0.0/templates/thankyou/customer-details.php:50
 #: templates/thankyou/customer-details.php:39 templates/thankyou/customer-details.php:50
 msgid "N/A"
 msgstr "N/A"
 
+#: deploy/1.0.0/templates/thankyou/customer-details.php:47
 #: templates/thankyou/customer-details.php:47
 msgid "Shipping Address"
 msgstr "Indirizzo di Spedizione"
 
-#: templates/thankyou/failed.php:1
+#: deploy/1.0.0/templates/thankyou/failed.php:1 templates/thankyou/failed.php:1
 msgid ""
 "Unfortunately your order cannot be processed as the originating bank/merchant has declined "
 "your transaction."
 msgstr ""
 "Purtroppo l'ordine non può essere processato poichè la banca ha rifiutato la transazione."
 
-#: templates/thankyou/failed.php:5
+#: deploy/1.0.0/templates/thankyou/failed.php:5 templates/thankyou/failed.php:5
 msgid "Please attempt your purchase again or go to your account page."
 msgstr "Si prega di provare di nuovo l'acquisto o andare alla pagina del tuo account."
 
-#: templates/thankyou/failed.php:7
+#: deploy/1.0.0/templates/thankyou/failed.php:7 templates/thankyou/failed.php:7
 msgid "Please attempt your purchase again."
 msgstr "Si prega di provare di nuovo l'acquisto."
 
-#: templates/thankyou/failed.php:11
+#: deploy/1.0.0/templates/thankyou/failed.php:11 templates/thankyou/failed.php:11
 msgid "Pay"
 msgstr "Paga"
 
-#: templates/thankyou/failed.php:13
+#: deploy/1.0.0/templates/thankyou/failed.php:13 templates/thankyou/failed.php:13
 msgid "My Account"
 msgstr "Il Mio Account"
 
-#: templates/thankyou/header.php:1 woocommerce-custom-thankyou.php:157
+#: deploy/1.0.0/templates/thankyou/header.php:1
+#: deploy/1.0.0/woocommerce-custom-thankyou.php:156 templates/thankyou/header.php:1
+#: woocommerce-custom-thankyou.php:152
 msgid "Thank you. Your order has been received."
 msgstr "Grazie. Il tuo ordine &egrave; stato ricevuto."
 
-#: templates/thankyou/header.php:5
+#: deploy/1.0.0/templates/thankyou/header.php:5 templates/thankyou/header.php:5
 msgid "Order:"
 msgstr "Ordine:"
 
-#: templates/thankyou/header.php:9
+#: deploy/1.0.0/templates/thankyou/header.php:9 templates/thankyou/header.php:9
 msgid "Date:"
 msgstr "Data:"
 
-#: templates/thankyou/header.php:13
+#: deploy/1.0.0/templates/thankyou/header.php:13 templates/thankyou/header.php:13
 msgid "Total:"
 msgstr "Totale:"
 
-#: templates/thankyou/header.php:18
+#: deploy/1.0.0/templates/thankyou/header.php:18 templates/thankyou/header.php:18
 msgid "Payment method:"
 msgstr "Metodo di pagamento:"
 
-#: templates/thankyou/table.php:1
+#: deploy/1.0.0/templates/thankyou/table.php:1 templates/thankyou/table.php:1
 msgid "Order Details"
 msgstr "Dettagli Ordine"
 
-#: templates/thankyou/table.php:5
+#: deploy/1.0.0/templates/thankyou/table.php:5 templates/thankyou/table.php:5
 msgid "Product"
 msgstr "Prodotto"
 
-#: templates/thankyou/table.php:6
+#: deploy/1.0.0/templates/thankyou/table.php:6 templates/thankyou/table.php:6
 msgid "Total"
 msgstr "Totale"
 
-#: woocommerce-custom-thankyou.php:72 woocommerce-custom-thankyou.php:79
+#: deploy/1.0.0/woocommerce-custom-thankyou.php:74
+#: deploy/1.0.0/woocommerce-custom-thankyou.php:81 woocommerce-custom-thankyou.php:70
+#: woocommerce-custom-thankyou.php:77
 msgid "Cheatin&#8217; huh?"
 msgstr "Stai barando eh?"
 
-#: woocommerce-custom-thankyou.php:219
+#: deploy/1.0.0/woocommerce-custom-thankyou.php:218 woocommerce-custom-thankyou.php:214
 msgid "Custom Thank You"
 msgstr "Pagina Ringraziamento Personalizzata"
 
-#: woocommerce-custom-thankyou.php:222
+#: deploy/1.0.0/woocommerce-custom-thankyou.php:221 woocommerce-custom-thankyou.php:217
 msgid "Thank You Page"
 msgstr "Pagina Ringraziamento"
 
 #. Plugin Name of the plugin/theme
 msgid "WooCommerce Custom Thank You"
 msgstr "WooCommerce Custom Thank You"
+
+#. Plugin URI of the plugin/theme
+msgid "http://nicolamustone.it/projects/woocommerce-custom-thankyou/"
+msgstr "http://nicolamustone.it/projects/woocommerce-custom-thankyou/"
 
 #. Description of the plugin/theme
 msgid "A WooCommerce extension that allows you to define e custom Thank you page."
