@@ -1,0 +1,24 @@
+{
+  "name": "woocommerce-custom-thankyou",
+  "title": "WooCommerce Custom Thank You",
+  "description": "A WooCommerce extension that allows you to define e custom Thank you page.",
+  "version": "1.0.0",
+  "homepage": "http://nicolamustone.it/projects/woocommerce-custom-thankyou/",
+  "repository": {
+    "type": "github",
+    "url": "https://github.com/SiR-DanieL/woocommerce-custom-thankyou.git"
+  },
+  "main": "Gruntfile.js",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-checktextdomain": "^0.1.1",
+    "grunt-contrib-clean": "~0.6.0",
+    "grunt-contrib-compress": "~0.5.2",
+    "grunt-contrib-copy": "~0.5.0",
+    "grunt-wp-i18n": "^0.4.9"
+  },
+  "engines": {
+    "node": ">=0.8.0",
+    "npm": ">=1.1.0"
+  }
+}
