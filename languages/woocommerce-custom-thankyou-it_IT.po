@@ -4,8 +4,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: WooCommerce Custom Thank You 1.0.0\n"
 "Report-Msgid-Bugs-To: https://github.com/SiR-DanieL/woocommerce-custom-thankyou/issues\n"
-"POT-Creation-Date: 2015-08-11 06:58:42+00:00\n"
-"PO-Revision-Date: 2015-08-11 08:58+0100\n"
+"POT-Creation-Date: 2015-08-13 07:12:07+00:00\n"
+"PO-Revision-Date: 2015-08-13 09:14+0100\n"
 "Last-Translator: Nicola Mustone <mustone.nicola@gmail.com>\n"
 "Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
 "Language: it_IT\n"
@@ -122,8 +122,8 @@ msgid "Thank You Page"
 msgstr "Pagina Ringraziamento"
 
 #. Plugin Name of the plugin/theme
-msgid "WooCommerce Custom Thank You"
-msgstr "WooCommerce Custom Thank You"
+msgid "WC Custom Thank You"
+msgstr "WC Custom Thank You"
 
 #. Plugin URI of the plugin/theme
 msgid "http://nicolamustone.it/projects/woocommerce-custom-thankyou/"
@@ -142,6 +142,9 @@ msgstr "Nicola Mustone"
 #. Author URI of the plugin/theme
 msgid "http://nicolamustone.it"
 msgstr "http://nicolamustone.it"
+
+#~ msgid "WooCommerce Custom Thank You"
+#~ msgstr "WooCommerce Custom Thank You"
 
 #~ msgid "A WooCommerce extensions that allows you to define e custom Thank you page."
 #~ msgstr "Un'estensione per WooCommerce"

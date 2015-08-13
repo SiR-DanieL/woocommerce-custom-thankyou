@@ -1,7 +1,7 @@
 {
   "name": "woocommerce-custom-thankyou",
-  "title": "WooCommerce Custom Thank You",
-  "description": "A WooCommerce extension that allows you to define e custom Thank you page.",
+  "title": "WC Custom Thank You",
+  "description": "A WooCommerce extension that allows you to define e custom Thank You page.",
   "version": "1.0.0",
   "homepage": "http://nicolamustone.it/projects/woocommerce-custom-thankyou/",
   "repository": {

@@ -1,6 +1,6 @@
 <?php
 /**
- * Plugin Name: WooCommerce Custom Thank You
+ * Plugin Name: WC Custom Thank You
  * Plugin URI: http://nicolamustone.it/projects/woocommerce-custom-thankyou/
  * Description: A WooCommerce extension that allows you to define e custom Thank you page.
  * Version: 1.0.0

@@ -1,7 +1,7 @@
-=== WooCommerce Custom Thank You ===
+=== WC Custom Thank You ===
 Contributors: nicolamustone
 Tags: ecommerce, e-commerce, commerce, woothemes, wordpress ecommerce, store, sales, sell, shop, shopping, cart, checkout, configurable
-Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&business=mustone.nicola@gmail.com&item_name=Donation+for+WooCommerce+Custom+Thank+Tou
+Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&business=mustone.nicola@gmail.com&item_name=Donation+for+WC+Custom+Thank+Tou
 Requires at least: 4.1
 Tested up to: 4.3
 Stable tag: 1.0.0
