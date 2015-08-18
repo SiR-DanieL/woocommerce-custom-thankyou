@@ -44,6 +44,10 @@ The manual installation method involves downloading this plugin and uploading it
 
 Probably you are not running WooCommerce 2.4. Please update.
 
+= How do i customize the plugin's templates without losing my changes with the updates? =
+
+Copy the folder `/thankyou` located in `wp-content/plugins/woocommerce-custom-thankyou/templates/` in `wp-content/themes/your-theme-name/woocommerce/`. Then edit the templates inside your theme instead of the plugin core. Consider using a child theme as well to not lose your changes with the theme updates.
+
 == Changelog ==
 
 = 1.0.0 - 2015-08-11 =
